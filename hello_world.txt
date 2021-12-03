@@ -1,0 +1,1 @@
+I installed vim via terminal and I am happy I managed to figure it out this far. 
